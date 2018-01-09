@@ -1,6 +1,9 @@
 ========================================================================
-    CONSOLE APPLICATION : engine Project Overview
+    IPS Game Network Engine : Developed by IPS
+	Founder/Owner: Muhammad Asad Hashmi (masadhashmi@gmail.com)
 ========================================================================
+
+The project is opensource, all entities are welcome to update repositories and make valueable update in improvemt of Game Network Engine.
 
 AppWizard has created this engine application for you.
 
